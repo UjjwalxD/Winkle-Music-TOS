@@ -2,7 +2,7 @@
 
 > Winkle Music is dedicated to safeguarding the privacy of its users. This policy outlines the types of information we collect, how we utilize it, and the rights users have regarding their data.
 
-**Data We Collect: **
+**Data We Collect:**
 - Message ID: Unique identifiers for messages exchanged within our services.
 - Guild ID and Channel ID: Identifiers for the specific communities and communication channels users engage with.
 - User ID: Unique identifiers for each user to personalize their experience.
